@@ -73,7 +73,7 @@ for feed in feedback_data['Feedback']:
 print("\n \n  Longest Feedback: ")
 print(longestfeed)
 
-print("\n \n Number of words in longest feed back: ", longest)
+print("\n \n Number of words in longest feedback: ", longest)
 
 uni=set()
 for wor in feedback_data['Feedback']:
